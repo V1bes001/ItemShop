@@ -2,56 +2,54 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "AthenaCharacter:CID_650_Athena_Commando_F_HolidayPJ_B
         ],
         "price": 800
     },
+    "daily2": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_092_Bling
+        ],
+        "price": 600
+    },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaDance:EID_GoodVibes
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaDance:EID_Grooving
         ],
         "price": 200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "AthenaItemWrap:Wrap_121_TechOpsBlue
         ],
-        "price": 300
+        "price": 400
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "AthenaBackpack:BID_003_RedKnight
         ],
-        "price": 600
+        "price": 450
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
-        ],
-        "price": 1500
+            "AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry
+        "price": 2,000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
-        ],
-        "price": 0
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS
+        "price": 1,000
     }
 }
